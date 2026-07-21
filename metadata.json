@@ -1,0 +1,6 @@
+{
+  "name": "Control de Inventario de Restaurante",
+  "description": "Sistema de control de inventario de cocina para restaurantes basado en recetas recursivas y movimientos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
